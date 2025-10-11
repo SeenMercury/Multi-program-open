@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SeenMercury&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8f5749eb-3afa-48ee-9e0f-bcba9595da3d" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SeenMercury/makeshift_troupe.git&quot;,
+    &quot;accountId&quot;: &quot;8f5749eb-3afa-48ee-9e0f-bcba9595da3d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xlhN0PmHOJYi030SlVydyUSuii" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Docker 镜像 (1).executor": "Run",
+    "Docker.Docker 镜像.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.communication1.4.executor": "Run",
+    "Python.communication1.5.executor": "Run",
+    "Python.communication1.6.executor": "Run",
+    "Python.communication1.7.executor": "Run",
+    "Python.communication1.8.executor": "Run",
+    "Python.communication1.9 (1).executor": "Run",
+    "Python.communication1.9.executor": "Run",
+    "Python.communication2.0 (1).executor": "Run",
+    "Python.wechat-Start.executor": "Run",
+    "Python.测试.executor": "Run",
+    "Python.测试1.executor": "Run",
+    "Python.番外steam启动.executor": "Run",
+    "Python.番外steam启动0.1.executor": "Run",
+    "Python.通讯1.1.executor": "Run",
+    "Python.通讯1.2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/code/通讯",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\通讯" />
+      <recent name="D:\code\通讯\communication1.8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.communication2.1">
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="通讯" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/communication2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/communication2.0/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="communication1.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="通讯" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/communication1.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="communication2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="通讯" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/communication2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\code\通讯\communication2.0\communication2.0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="communication2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="通讯" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/communication2.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\code\通讯\communication2.1\communication2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wechatStart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="通讯" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/communication2.0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\code\通讯\communication2.0\wechatStart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-image" temporary="true">
+      <deployment type="docker-image">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.communication2.1" />
+        <item itemvalue="Python.communication1.7" />
+        <item itemvalue="Python.wechatStart" />
+        <item itemvalue="Python.communication2.0" />
+        <item itemvalue="Python.测试" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="" />
+      <created>1748518527284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748518527284</updated>
+      <workItem from="1748518528824" duration="3264000" />
+      <workItem from="1748521918862" duration="1155000" />
+      <workItem from="1748523207167" duration="14000" />
+      <workItem from="1748754563540" duration="24000" />
+      <workItem from="1748762168760" duration="34000" />
+      <workItem from="1748952503285" duration="78000" />
+      <workItem from="1748954839098" duration="18000" />
+      <workItem from="1748954926846" duration="14000" />
+      <workItem from="1749823591905" duration="3000" />
+      <workItem from="1750213125139" duration="1427000" />
+      <workItem from="1750241581033" duration="12000" />
+      <workItem from="1750307903998" duration="11000" />
+      <workItem from="1750307925814" duration="17000" />
+      <workItem from="1750307954756" duration="48000" />
+      <workItem from="1750308074184" duration="8000" />
+      <workItem from="1750334305492" duration="5000" />
+      <workItem from="1750334332673" duration="2000" />
+      <workItem from="1750338826506" duration="29000" />
+      <workItem from="1750338886315" duration="10000" />
+      <workItem from="1750338998828" duration="10000" />
+      <workItem from="1750339105068" duration="5000" />
+      <workItem from="1750409537650" duration="284000" />
+      <workItem from="1750410723027" duration="2000" />
+      <workItem from="1750412734093" duration="14000" />
+      <workItem from="1750424638106" duration="15000" />
+      <workItem from="1750864618553" duration="11000" />
+      <workItem from="1750929500422" duration="11000" />
+      <workItem from="1752660394713" duration="158000" />
+      <workItem from="1755431366476" duration="355000" />
+      <workItem from="1755433228368" duration="269000" />
+      <workItem from="1755433814502" duration="4719000" />
+      <workItem from="1755506765377" duration="2623000" />
+      <workItem from="1755509522637" duration="6088000" />
+      <workItem from="1755605404950" duration="1276000" />
+      <workItem from="1755839147824" duration="291000" />
+      <workItem from="1755866398852" duration="37000" />
+      <workItem from="1755866453473" duration="2042000" />
+      <workItem from="1755868536312" duration="42000" />
+      <workItem from="1755940904809" duration="5000" />
+      <workItem from="1755940931374" duration="476000" />
+      <workItem from="1755941463716" duration="411000" />
+      <workItem from="1755953122632" duration="158000" />
+      <workItem from="1755956675706" duration="4000" />
+      <workItem from="1755956687181" duration="75000" />
+      <workItem from="1756009230149" duration="119000" />
+      <workItem from="1756310937404" duration="39000" />
+      <workItem from="1756469656064" duration="255000" />
+      <workItem from="1757389054466" duration="49000" />
+      <workItem from="1757389581631" duration="513000" />
+      <workItem from="1757390103340" duration="769000" />
+      <workItem from="1757390986458" duration="41000" />
+      <workItem from="1757404071814" duration="207000" />
+      <workItem from="1757407876230" duration="153000" />
+      <workItem from="1757920726404" duration="568000" />
+      <workItem from="1758512765606" duration="956000" />
+      <workItem from="1758516451529" duration="258000" />
+      <workItem from="1758530573433" duration="1512000" />
+      <workItem from="1758532677768" duration="17000" />
+      <workItem from="1758544886885" duration="1709000" />
+      <workItem from="1758549303695" duration="6520000" />
+      <workItem from="1758557725295" duration="2398000" />
+      <workItem from="1758560181015" duration="737000" />
+      <workItem from="1758560993631" duration="52000" />
+      <workItem from="1758561093368" duration="609000" />
+      <workItem from="1758561730908" duration="40000" />
+      <workItem from="1758593217754" duration="114000" />
+      <workItem from="1758596366923" duration="1183000" />
+      <workItem from="1758597646799" duration="482000" />
+      <workItem from="1758598140064" duration="89000" />
+      <workItem from="1758598342329" duration="61000" />
+      <workItem from="1758598481604" duration="1394000" />
+      <workItem from="1758599898157" duration="91000" />
+      <workItem from="1758599999402" duration="402000" />
+      <workItem from="1758600421953" duration="11000" />
+      <workItem from="1758601703987" duration="146000" />
+      <workItem from="1758601880461" duration="64000" />
+      <workItem from="1758603403525" duration="411000" />
+      <workItem from="1758618745855" duration="8000" />
+      <workItem from="1758618757032" duration="3000" />
+      <workItem from="1759124041704" duration="121000" />
+      <workItem from="1759738677876" duration="30000" />
+      <workItem from="1759740158289" duration="18000" />
+      <workItem from="1759999578949" duration="602000" />
+      <workItem from="1760018043201" duration="305000" />
+      <workItem from="1760176583555" duration="38000" />
+      <workItem from="1760179376784" duration="1892000" />
+      <workItem from="1760181397100" duration="428000" />
+      <workItem from="1760186139785" duration="1846000" />
+      <workItem from="1760188007396" duration="4572000" />
+      <workItem from="1760192857020" duration="115000" />
+      <workItem from="1760192980529" duration="315000" />
+      <workItem from="1760195941813" duration="49000" />
+      <workItem from="1760196326290" duration="59000" />
+      <workItem from="1760196398296" duration="1893000" />
+    </task>
+    <task id="LOCAL-00001" summary="01">
+      <option name="closed" value="true" />
+      <created>1760188225070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760188225070</updated>
+    </task>
+    <task id="LOCAL-00002" summary="01">
+      <option name="closed" value="true" />
+      <created>1760193042398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760193042398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="00">
+      <option name="closed" value="true" />
+      <created>1760196621728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760196621728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="00">
+      <option name="closed" value="true" />
+      <created>1760197361005</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760197361005</updated>
+    </task>
+    <task id="LOCAL-00005" summary="00">
+      <option name="closed" value="true" />
+      <created>1760197677109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760197677109</updated>
+    </task>
+    <task id="LOCAL-00006" summary="01">
+      <option name="closed" value="true" />
+      <created>1760197759218</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760197759218</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:D:/code/通讯" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="草台班子/master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="01" />
+    <MESSAGE value="00" />
+    <option name="LAST_COMMIT_MESSAGE" value="00" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_1_py$communication1_4.coverage" NAME="communication1.4 覆盖结果" MODIFIED="1755516201603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$2.coverage" NAME="2 覆盖结果" MODIFIED="1755509902003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$communication2_0__1_.coverage" NAME="communication2.0 (1) 覆盖结果" MODIFIED="1760190724250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.1" />
+    <SUITE FILE_PATH="coverage/$communication1_9__1_.coverage" NAME="communication1.9 (1) 覆盖结果" MODIFIED="1760189991663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="测试 覆盖结果" MODIFIED="1760189903576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
+    <SUITE FILE_PATH="coverage/$1_1.coverage" NAME="通讯1.1 覆盖结果" MODIFIED="1750409797783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$communication1_6.coverage" NAME="communication1.6 覆盖结果" MODIFIED="1759124136974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$steam.coverage" NAME="番外steam启动 覆盖结果" MODIFIED="1757389991992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$steam0_1.coverage" NAME="番外steam启动0.1 覆盖结果" MODIFIED="1757407914136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$communication1_7.coverage" NAME="communication1.7 覆盖结果" MODIFIED="1760190703932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1755515547469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$wechat_Start.coverage" NAME="wechat-Start 覆盖结果" MODIFIED="1760190148750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
+    <SUITE FILE_PATH="coverage/$communication1_9.coverage" NAME="communication1.9 覆盖结果" MODIFIED="1760187927051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication1.9" />
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="测试1 覆盖结果" MODIFIED="1760189645122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
+    <SUITE FILE_PATH="coverage/1_1_py$1_1.coverage" NAME="通讯1.1 覆盖结果" MODIFIED="1755435536689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$communication1_5.coverage" NAME="communication1.5 覆盖结果" MODIFIED="1758598362877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$1_2.coverage" NAME="通讯1.2 覆盖结果" MODIFIED="1755438109000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_1_py$communication1_6.coverage" NAME="communication1.6 覆盖结果" MODIFIED="1758599225380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$communication1_8.coverage" NAME="communication1.8 覆盖结果" MODIFIED="1760186403586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication1.8" />
+  </component>
+</project>
