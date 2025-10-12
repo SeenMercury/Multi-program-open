@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="老东西">
-      <change afterPath="$PROJECT_DIR$/communication2.2(Ww)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.2(Ww)/communication2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.2(Ww)/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.2(Ww)/defs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.3(W)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.3(W)/communication2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.3(W)/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.3(W)/defs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.3(W)/wechatStart.py" afterDir="false" />
+    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="04">
       <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/communication2.4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/config.py" afterDir="false" />
@@ -25,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/communication2.5(W)/defs.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/communication2.5(W)/wechatStart.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/communication2.5(W)/使用说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,51 +64,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Docker.Docker 镜像 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Docker.Docker 镜像.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.9 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication1.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.0 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.communication2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.defs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wechat-Start.executor&quot;: &quot;Run&quot;,
-    &quot;Python.测试.executor&quot;: &quot;Run&quot;,
-    &quot;Python.测试1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.番外steam启动.executor&quot;: &quot;Run&quot;,
-    &quot;Python.番外steam启动0.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.通讯1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.通讯1.2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/通讯/communication2.5(W)&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Docker 镜像 (1).executor": "Run",
+    "Docker.Docker 镜像.executor": "Run",
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.communication1.4.executor": "Run",
+    "Python.communication1.5.executor": "Run",
+    "Python.communication1.6.executor": "Run",
+    "Python.communication1.7.executor": "Run",
+    "Python.communication1.8.executor": "Run",
+    "Python.communication1.9 (1).executor": "Run",
+    "Python.communication1.9.executor": "Run",
+    "Python.communication2.0 (1).executor": "Run",
+    "Python.communication2.1 (1).executor": "Run",
+    "Python.communication2.2.executor": "Run",
+    "Python.communication2.3.executor": "Run",
+    "Python.communication2.4.executor": "Run",
+    "Python.communication2.5.executor": "Run",
+    "Python.defs.executor": "Run",
+    "Python.wechat-Start.executor": "Run",
+    "Python.测试.executor": "Run",
+    "Python.测试1.executor": "Run",
+    "Python.番外steam启动.executor": "Run",
+    "Python.番外steam启动0.1.executor": "Run",
+    "Python.通讯1.1.executor": "Run",
+    "Python.通讯1.2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/code/通讯",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\通讯\communication2.5(W)" />
       <recent name="D:\code\通讯" />
+      <recent name="D:\code\通讯\communication2.5(W)" />
       <recent name="D:\code\通讯\.venv" />
       <recent name="D:\code\通讯\communication1.8" />
     </key>
@@ -128,7 +118,7 @@
       <recent name="D:\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.communication2.4">
+  <component name="RunManager" selected="Python.communication2.5">
     <configuration name="communication2.1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="通讯" />
       <option name="ENV_FILES" value="" />
@@ -252,8 +242,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.communication2.4" />
         <item itemvalue="Python.communication2.5" />
+        <item itemvalue="Python.communication2.4" />
         <item itemvalue="Python.defs" />
         <item itemvalue="Python.communication2.1 (1)" />
         <item itemvalue="Python.communication2.3" />
@@ -375,7 +365,7 @@
       <workItem from="1760242202602" duration="6658000" />
       <workItem from="1760254955779" duration="1069000" />
       <workItem from="1760256051398" duration="383000" />
-      <workItem from="1760256444183" duration="396000" />
+      <workItem from="1760256444183" duration="4036000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -489,7 +479,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760251949459</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="04">
+      <option name="closed" value="true" />
+      <created>1760257311523</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760257311523</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +560,8 @@
     <MESSAGE value="03" />
     <MESSAGE value="03.1" />
     <MESSAGE value="老东西" />
-    <option name="LAST_COMMIT_MESSAGE" value="老东西" />
+    <MESSAGE value="04" />
+    <option name="LAST_COMMIT_MESSAGE" value="04" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1_1_py$2.coverage" NAME="2 覆盖结果" MODIFIED="1755509902003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -577,14 +576,14 @@
     <SUITE FILE_PATH="coverage/$communication1_7.coverage" NAME="communication1.7 覆盖结果" MODIFIED="1760190703932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_1_py$1.coverage" NAME="1 覆盖结果" MODIFIED="1755515547469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$wechat_Start.coverage" NAME="wechat-Start 覆盖结果" MODIFIED="1760190148750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
-    <SUITE FILE_PATH="coverage/$communication2_5.coverage" NAME="communication2.5 覆盖结果" MODIFIED="1760256811733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.5(W)" />
+    <SUITE FILE_PATH="coverage/$communication2_5.coverage" NAME="communication2.5 覆盖结果" MODIFIED="1760261511680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.5(W)" />
     <SUITE FILE_PATH="coverage/$communication1_9.coverage" NAME="communication1.9 覆盖结果" MODIFIED="1760187927051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication1.9" />
     <SUITE FILE_PATH="coverage/$1.coverage" NAME="测试1 覆盖结果" MODIFIED="1760189645122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.0" />
     <SUITE FILE_PATH="coverage/1_1_py$1_1.coverage" NAME="通讯1.1 覆盖结果" MODIFIED="1755435536689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_1_py$communication1_5.coverage" NAME="communication1.5 覆盖结果" MODIFIED="1758598362877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_1_py$communication1_4.coverage" NAME="communication1.4 覆盖结果" MODIFIED="1755516201603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$1_1.coverage" NAME="通讯1.1 覆盖结果" MODIFIED="1750409797783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$communication2_4.coverage" NAME="communication2.4 覆盖结果" MODIFIED="1760256092749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.4(Ww)" />
+    <SUITE FILE_PATH="coverage/$communication2_4.coverage" NAME="communication2.4 覆盖结果" MODIFIED="1760261094085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/communication2.4(Ww)" />
     <SUITE FILE_PATH="coverage/$communication1_6.coverage" NAME="communication1.6 覆盖结果" MODIFIED="1759124136974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_1_py$steam.coverage" NAME="番外steam启动 覆盖结果" MODIFIED="1757389991992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/1_1_py$1_2.coverage" NAME="通讯1.2 覆盖结果" MODIFIED="1755438109000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
