@@ -12,7 +12,7 @@ pywin32
 pywinauto
 ```
 
-使用时需先配置config.py文件
+使用时需先配置config.py文件:
 
 ```
 apps = [
@@ -28,7 +28,16 @@ programs1 = ["应用文件1", "应用文件2"]
 time0 = 定时时间
 ```
 
-在配置完成后运行communication.py文件即可启动
+apps处需要输入启动应用的路径
+
+programs0需要输入apps处输入的所有文件名
+
+programs1为你想要默认关闭窗口的应用
+
+time0为所有应用启动后关闭窗口等待的时间(默认为17秒)
+
+
+在配置完成后运行communication.py文件即可启动:
 
 ```
 主程序中
