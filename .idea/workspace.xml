@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="04">
-      <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/communication2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/defs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.4(Ww)/使用说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/communication2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/defs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/wechatStart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/communication2.5(W)/使用说明" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="测试1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -366,6 +353,7 @@
       <workItem from="1760254955779" duration="1069000" />
       <workItem from="1760256051398" duration="383000" />
       <workItem from="1760256444183" duration="4036000" />
+      <workItem from="1760271745639" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -487,7 +475,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760257311523</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="测试1">
+      <option name="closed" value="true" />
+      <created>1760271956081</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1760271956081</updated>
+    </task>
+    <task id="LOCAL-00017" summary="测试1">
+      <option name="closed" value="true" />
+      <created>1760272038329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1760272038329</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +565,8 @@
     <MESSAGE value="03.1" />
     <MESSAGE value="老东西" />
     <MESSAGE value="04" />
-    <option name="LAST_COMMIT_MESSAGE" value="04" />
+    <MESSAGE value="测试1" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1_1_py$2.coverage" NAME="2 覆盖结果" MODIFIED="1755509902003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
