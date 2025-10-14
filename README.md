@@ -1,6 +1,6 @@
 <div align="center">
 
-# 软件多开器
+# 应用多开器
 
 </div>
 
