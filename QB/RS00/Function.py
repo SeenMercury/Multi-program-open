@@ -18,7 +18,7 @@ def test_run(program_name):
 # ===================================================================================================
 # 查找进程可见窗口
 # ===================================================================================================
-def find_visible_windows(pid):
+def window_inquiry(pid):
     def callback(hwnd, hwnds):
         if win32gui.IsWindowVisible(hwnd):
             _, window_pid = win32process.GetWindowThreadProcessId(hwnd)
@@ -33,7 +33,7 @@ def find_visible_windows(pid):
 # ===================================================================================================
 # 模拟点击关闭按钮
 # ===================================================================================================
-def close_window_gracefully(hwnd):
+def close_window(hwnd):
     win32gui.PostMessage(hwnd, win32con.WM_CLOSE, 0, 0)
     start_time = time.time()
     while time.time() - start_time < 1:
