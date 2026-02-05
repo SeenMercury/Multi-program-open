@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="gui测试">
+    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment=".">
+      <change afterPath="$PROJECT_DIR$/QB/RS00/Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QB/RS00/RS00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/通讯.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/通讯.iml" afterDir="false" />
     </list>
@@ -30,15 +33,16 @@
     &quot;assignee&quot;: &quot;SeenMercury&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="8f5749eb-3afa-48ee-9e0f-bcba9595da3d" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/SeenMercury/Multi-program-open.git&quot;,
-    &quot;accountId&quot;: &quot;8f5749eb-3afa-48ee-9e0f-bcba9595da3d&quot;
+    &quot;accountId&quot;: &quot;3854a948-8475-4e4f-be91-30f97f128daf&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -47,7 +51,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2xlhN0PmHOJYi030SlVydyUSuii" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -83,8 +87,11 @@
     &quot;Python.番外steam启动0.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.通讯1.1.executor&quot;: &quot;Run&quot;,
     &quot;Python.通讯1.2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/code/python/图片传输&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -105,6 +112,8 @@
       <recent name="D:\code\通讯\communication1.8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\通讯" />
+      <recent name="F:\Code\通讯\QA" />
       <recent name="D:\code\通讯" />
       <recent name="D:\code\通讯\communication2.4(Ww)" />
       <recent name="D:\" />
@@ -250,8 +259,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
-        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -396,6 +405,8 @@
       <workItem from="1762780876007" duration="830000" />
       <workItem from="1762781725781" duration="147000" />
       <workItem from="1762781881903" duration="542000" />
+      <workItem from="1770302836569" duration="648000" />
+      <workItem from="1770303495750" duration="4136000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -573,7 +584,31 @@
       <option name="project" value="LOCAL" />
       <updated>1761565867709</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="gui测试">
+      <option name="closed" value="true" />
+      <created>1770302855610</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1770302855610</updated>
+    </task>
+    <task id="LOCAL-00024" summary=".">
+      <option name="closed" value="true" />
+      <created>1770302978378</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1770302978378</updated>
+    </task>
+    <task id="LOCAL-00025" summary=".">
+      <option name="closed" value="true" />
+      <created>1770303038222</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1770303038222</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -649,7 +684,8 @@
     <MESSAGE value="04" />
     <MESSAGE value="测试1" />
     <MESSAGE value="gui测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="gui测试" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1_1_py$2.coverage" NAME="2 覆盖结果" MODIFIED="1755509902003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
