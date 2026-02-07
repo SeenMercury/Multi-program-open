@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment=".">
-      <change afterPath="$PROJECT_DIR$/QB/RS00/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/RS00/Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/RS00.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/RS00/RS00.py" afterDir="false" />
-    </list>
+    <list default="true" id="e8f1cd63-63da-4f05-973c-32dfe630321c" name="更改" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +30,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/SeenMercury/Multi-program-open.git&quot;,
-    &quot;accountId&quot;: &quot;3854a948-8475-4e4f-be91-30f97f128daf&quot;
+    &quot;accountId&quot;: &quot;5d598789-9fb2-4fcf-9bba-be3a95199d47&quot;
   }
 }</component>
   <component name="McpProjectServerCommands">
@@ -410,6 +405,7 @@
       <workItem from="1770303495750" duration="4353000" />
       <workItem from="1770308270673" duration="1349000" />
       <workItem from="1770309633137" duration="114000" />
+      <workItem from="1770467870235" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
