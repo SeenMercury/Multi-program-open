@@ -1,11 +1,10 @@
 apps = [
-    'D:/Communication/DingDing/DingtalkLauncher.exe',
     'D:/Communication/QQ/QQ.exe',
-    'D:/Communication/.com/MailMaster/Application/mailmaster.exe'
+    'D:/communication/Email/Foxmail.exe'
 ]
 WeChat = [
     'D:/Communication/WeChat/Weixin/Weixin.exe'
 ]
-programs = ["Weixin.exe", "QQ.exe", "Foxmail.exe", "DingTalk.exe"]
-time0 = 17
+programs = ["Weixin.exe", "QQ.exe", "Foxmail.exe"]
+time0 = 10
 time1 = 2

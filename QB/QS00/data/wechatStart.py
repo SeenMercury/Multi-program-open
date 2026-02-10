@@ -63,7 +63,6 @@ def focus_wechat_window():
 
 
 def send_enter_to_wechat():
-    app, main_window = connect_to_wechat_window()
     if not focus_wechat_window():
         return False
 
