@@ -4,7 +4,7 @@ apps = [
     'D:/Communication/.com/MailMaster/Application/mailmaster.exe'
 ]
 WeChat = [
-    'D:/Communication/Weixin/Weixin/Weixin.exe'
+    'D:/Communication/WeChat/Weixin/Weixin.exe'
 ]
 programs = ["Weixin.exe", "QQ.exe", "Foxmail.exe", "DingTalk.exe"]
 time0 = 17

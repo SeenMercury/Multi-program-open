@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cd0697-197e-4330-9f60-9205fe3bdd90" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/QB/QS00/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QB/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="05cd0697-197e-4330-9f60-9205fe3bdd90" name="更改" comment=".">
+      <change afterPath="$PROJECT_DIR$/QB/QS00/data/wechatStart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/通讯.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/通讯.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/data/Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/RS00.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/RS00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/RS00/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/data/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QB/QS00/RS00.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/RS00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QB/QS00/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/data/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +55,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/Code/通讯/QB/QS00/data",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\通讯\QB\QS00\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Code\通讯\QB\QS00\data" />
       <recent name="F:\Code\通讯\QB\QS00" />
@@ -127,8 +123,17 @@
       <workItem from="1770517911275" duration="11000" />
       <workItem from="1770640717775" duration="4000" />
       <workItem from="1770705297786" duration="149000" />
-      <workItem from="1770705471583" duration="3039000" />
+      <workItem from="1770705471583" duration="4360000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1770708656823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770708656823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +150,11 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$RS00.coverage" NAME="RS00 覆盖结果" MODIFIED="1770708493928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QB/QS00" />
+    <SUITE FILE_PATH="coverage/$RS00.coverage" NAME="RS00 覆盖结果" MODIFIED="1770709848471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QB/QS00" />
   </component>
 </project>
