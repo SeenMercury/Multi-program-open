@@ -30,15 +30,15 @@ def start_application(app_path, require_admin=False):
             print(f"已启动应用程序: {os.path.basename(app_path)}")
             return True
     except Exception as e:
-        print(f"启动应用程序失败: {app_path}\n错误信息: {str(e)}")
+        print(f"启动应用程序失败: {app_path}/n错误信息: {str(e)}")
         return False
 
 
 # 定义应用程序路径列表，标记哪些需要管理员权限
 apps = [
-    # ('E:/Game/steam/Steam.exe', False),  # Steam不需要管理员权限
-    ('E:/Accelerator/AccUpdater/CMCCAcc/client/GameAcc.exe', True),  # 需要管理员权限
-    ('E:/Accelerator/Watt Toolkit/Steam++/Steam++.exe', True)  # 需要管理员权限
+    ('G:/Game/steam/Steam.exe', False),  # Steam不需要管理员权限
+    ('G:/Accelerator/Thor/LeiGod_Acc/leigod.exe', True),  # 需要管理员权限
+    ('G:/Accelerator/Watt_Toolkit/Steam++/Steam++.exe', True)  # 需要管理员权限
 ]
 
 print("开始启动应用程序...")
@@ -47,5 +47,5 @@ print("开始启动应用程序...")
 for app_path, require_admin in apps:
     start_application(app_path, require_admin)
 
-print("\n所有启动请求已完成。")
+print("/n所有启动请求已完成。")
 print("注意：需要管理员权限的应用程序将会显示UAC提示，请根据需要允许或拒绝。")
