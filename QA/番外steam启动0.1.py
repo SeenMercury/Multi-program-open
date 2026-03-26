@@ -38,7 +38,8 @@ def start_application(app_path, require_admin=False):
 apps = [
     ('G:/Game/steam/Steam.exe', False),  # Steam不需要管理员权限
     ('G:/Accelerator/Thor/LeiGod_Acc/leigod.exe', True),  # 需要管理员权限
-    ('G:/Accelerator/Watt_Toolkit/Steam++/Steam++.exe', True)  # 需要管理员权限
+    ('G:/Accelerator/Watt_Toolkit/Steam++/Steam++.exe', True),  # 需要管理员权限
+    ('G:/Accelerator/Steamcommunity_302/Steamcommunity_302', True)
 ]
 
 print("开始启动应用程序...")
