@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="05cd0697-197e-4330-9f60-9205fe3bdd90" name="更改" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QA/番外steam启动0.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/番外steam启动0.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QB/QS00/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/data/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;F:/Code/通讯&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
