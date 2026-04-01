@@ -4,7 +4,6 @@
     <list default="true" id="05cd0697-197e-4330-9f60-9205fe3bdd90" name="更改" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QA/番外steam启动0.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/QA/番外steam启动0.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QB/QS00/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/QB/QS00/data/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
