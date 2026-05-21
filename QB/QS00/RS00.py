@@ -32,6 +32,7 @@ else:
 
     if focus_wechat_window():
         print("锁定微信窗口")
+        time.sleep(1)
         if send_enter_to_wechat():
             print("微信登录成功")
             # 启动其他应用
