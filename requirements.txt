@@ -1,0 +1,6 @@
+psutil
+pywinauto
+pyautogui
+pywin32
+Pillow
+comtypes
