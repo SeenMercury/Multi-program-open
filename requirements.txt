@@ -1,6 +1,6 @@
 psutil
+pywin32
 pywinauto
 pyautogui
-pywin32
 Pillow
 comtypes
